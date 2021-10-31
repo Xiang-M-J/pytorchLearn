@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbd4a0ad-28c0-4e93-ad5b-927dd3b4eb8a" name="Changes" comment="">
+    <list default="true" id="bbd4a0ad-28c0-4e93-ad5b-927dd3b4eb8a" name="Changes" comment="学习了numpy100">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/0.math/0.basic/markdown/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/0.math/1.CS229/1.CS229-LinearAlgebra.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/0.math/1.CS229/1.CS229-LinearAlgebra.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/0.math/1.CS229/markdown/1.CS229-LinearAlgebra.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/0.math/1.CS229/markdown/2.CS229-Prob.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/0.math/1.CS229/markdown/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/0.math/1.CS229/markdown/images/b958c16cfdce9e6bd2b810b10d71416e.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/0.math/1.CS229/markdown/images/c89fd93c5d6dccce89762d57fcd66dac.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/0.math/1.CS229/markdown/images/fig1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy-100/100_Numpy_exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy-100/100_Numpy_exercises.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy-100/100_Numpy_exercises_no_solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy-100/100_Numpy_exercises_no_solution.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/1_Array_creation_routines.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/1_Array_creation_routines.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/1_Array_creation_routines_Solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/1_Array_creation_routines_Solution.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/2_Array_manipulation_routines.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/2_Array_manipulation_routines.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/2_Array_manipulation_routines_Solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/2_Array_manipulation_routines_Solutions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/3_String_operations.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/3_String_operations.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/4_Numpy-specific_help_functions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/4_Numpy-specific_help_functions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/4_Numpy-specific_help_functions_Solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/4_Numpy-specific_help_functions_Solutions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/5_Input_and_Output.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/5_Input_and_Output.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/5_Input_and_Output_Solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/5_Input_and_Output_Solutions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/6_Linear_algebra.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/6_Linear_algebra.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/6_Linear_algebra_Solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/6_Linear_algebra_Solutions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/7_Discrete_Fourier_Transform.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/7_Discrete_Fourier_Transform.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/7_Discrete_Fourier_Transform_solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/7_Discrete_Fourier_Transform_solutions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/8_Logic_functions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/8_Logic_functions.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +45,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -83,8 +89,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1635604982921</updated>
-      <workItem from="1635604984289" duration="17272000" />
+      <workItem from="1635604984289" duration="25019000" />
+      <workItem from="1635669890683" duration="164000" />
     </task>
+    <task id="LOCAL-00001" summary="学习了numpy100">
+      <created>1635661063028</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1635661063028</updated>
+    </task>
+    <task id="LOCAL-00002" summary="学习了numpy100">
+      <created>1635661073627</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1635661073627</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +122,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="学习了numpy100" />
+    <option name="LAST_COMMIT_MESSAGE" value="学习了numpy100" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pytorch$main.coverage" NAME="main Coverage Results" MODIFIED="1635606046953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorials/01-basics/feedforward_neural_network" />
