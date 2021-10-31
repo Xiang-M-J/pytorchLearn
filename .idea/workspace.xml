@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eca1ed14-9250-467b-868c-4c89f43eb3a1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/other.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pytorch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pytorch.iml" afterDir="false" />
+    <list default="true" id="eca1ed14-9250-467b-868c-4c89f43eb3a1" name="Changes" comment="numpyexercise已学完">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/10_Random_sampling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/10_Random_sampling.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/10_Random_sampling_Solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/10_Random_sampling_Solutions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/11_Set_routines.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/11_Set_routines.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/11_Set_routines_Solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/11_Set_routines_Solutions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/12_Sorting_searching_and_counting.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/12_Sorting_searching_and_counting.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/12_Sorting_searching_and_counting_Solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/12_Sorting_searching_and_counting_Solutions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/13_Statistics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/13_Statistics.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/13_Statistics_solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/13_Statistics_solutions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/8_Logic_functions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/8_Logic_functions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/8_Logic_functions_Solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/8_Logic_functions_Solutions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/9_Mathematical_functions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/9_Mathematical_functions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/9_Mathematical_functions_solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/2.numpy/numpy_exercises/9_Mathematical_functions_solutions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/1.10-Minutes-to-pandas/10 Minutes to pandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/1.10-Minutes-to-pandas/10 Minutes to pandas.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/1.10-Minutes-to-pandas/data/foo.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/1.10-Minutes-to-pandas/data/foo.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/1.10-Minutes-to-pandas/data/foo.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/1.10-Minutes-to-pandas/data/foo.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/3.pandas_beginner/pandas_beginner.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/3.pandas_beginner/pandas_beginner.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +27,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -48,11 +38,36 @@
       <option name="presentableId" value="Default" />
       <updated>1635670598975</updated>
       <workItem from="1635670602579" duration="2321000" />
-      <workItem from="1635682894988" duration="5030000" />
+      <workItem from="1635682894988" duration="6799000" />
+      <workItem from="1635692791733" duration="3229000" />
     </task>
+    <task id="LOCAL-00001" summary="numpyexercise已学完">
+      <created>1635689607588</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1635689607589</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="numpyexercise已学完" />
+    <option name="LAST_COMMIT_MESSAGE" value="numpyexercise已学完" />
   </component>
 </project>
