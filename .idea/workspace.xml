@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eca1ed14-9250-467b-868c-4c89f43eb3a1" name="Changes" comment="numpyexercise已学完">
+    <list default="true" id="eca1ed14-9250-467b-868c-4c89f43eb3a1" name="Changes" comment="begin Pandas">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/1.10-Minutes-to-pandas/10 Minutes to pandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/1.10-Minutes-to-pandas/10 Minutes to pandas.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/1.10-Minutes-to-pandas/data/foo.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/1.10-Minutes-to-pandas/data/foo.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/1.10-Minutes-to-pandas/data/foo.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/1.10-Minutes-to-pandas/data/foo.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/3.pandas_beginner/pandas_beginner.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/3.pandas_beginner/pandas_beginner.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/4.Pandas50/Pandas50.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/4.Pandas50/Pandas50.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +36,7 @@
       <updated>1635670598975</updated>
       <workItem from="1635670602579" duration="2321000" />
       <workItem from="1635682894988" duration="6799000" />
-      <workItem from="1635692791733" duration="3229000" />
+      <workItem from="1635692791733" duration="5870000" />
     </task>
     <task id="LOCAL-00001" summary="numpyexercise已学完">
       <created>1635689607588</created>
@@ -48,7 +45,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635689607589</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="begin Pandas">
+      <created>1635696420685</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1635696420686</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,6 +72,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="numpyexercise已学完" />
-    <option name="LAST_COMMIT_MESSAGE" value="numpyexercise已学完" />
+    <MESSAGE value="begin Pandas" />
+    <option name="LAST_COMMIT_MESSAGE" value="begin Pandas" />
   </component>
 </project>
