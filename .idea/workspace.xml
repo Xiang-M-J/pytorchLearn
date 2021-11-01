@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eca1ed14-9250-467b-868c-4c89f43eb3a1" name="Changes" comment="begin Pandas">
+    <list default="true" id="eca1ed14-9250-467b-868c-4c89f43eb3a1" name="Changes" comment="Add some files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/4.Pandas50/Pandas50.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/4.Pandas50/Pandas50.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/01_Getting_&amp;_Knowing_Your_Data/Chipotle/Exercise_with_Solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/01_Getting_&amp;_Knowing_Your_Data/Chipotle/Exercise_with_Solutions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/01_Getting_&amp;_Knowing_Your_Data/Chipotle/Exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/01_Getting_&amp;_Knowing_Your_Data/Chipotle/Exercises.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/01_Getting_&amp;_Knowing_Your_Data/Occupation/Exercise_with_Solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/01_Getting_&amp;_Knowing_Your_Data/Occupation/Exercise_with_Solution.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/01_Getting_&amp;_Knowing_Your_Data/Occupation/Exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/01_Getting_&amp;_Knowing_Your_Data/Occupation/Exercises.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/01_Getting_&amp;_Knowing_Your_Data/World Food Facts/Exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/01_Getting_&amp;_Knowing_Your_Data/World Food Facts/Exercises.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/01_Getting_&amp;_Knowing_Your_Data/World Food Facts/Exercises_with_solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/01_Getting_&amp;_Knowing_Your_Data/World Food Facts/Exercises_with_solutions.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +41,7 @@
       <updated>1635670598975</updated>
       <workItem from="1635670602579" duration="2321000" />
       <workItem from="1635682894988" duration="6799000" />
-      <workItem from="1635692791733" duration="5870000" />
+      <workItem from="1635692791733" duration="12116000" />
     </task>
     <task id="LOCAL-00001" summary="numpyexercise已学完">
       <created>1635689607588</created>
@@ -52,7 +57,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635696420686</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add some files">
+      <created>1635723675654</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1635723675654</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,6 +85,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="numpyexercise已学完" />
     <MESSAGE value="begin Pandas" />
-    <option name="LAST_COMMIT_MESSAGE" value="begin Pandas" />
+    <MESSAGE value="Add some files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add some files" />
   </component>
 </project>
