@@ -1,9 +1,14 @@
-from sklearn.preprocessing import LabelEncoder
+from sklearn.compose import ColumnTransformer
+from sklearn.linear_model import LogisticRegression
+from sklearn.model_selection import GridSearchCV, cross_validate
+from sklearn.pipeline import make_pipeline
+from sklearn.preprocessing import LabelEncoder, OneHotEncoder
 from sklearn.preprocessing import OrdinalEncoder
 from sklearn.preprocessing import KBinsDiscretizer
+import pandas as pd
 
 # Read the data
-data = pd.read_csv(os.path.join('data', 'adult_openml.csv'))
+data = pd.read_csv('../data/adult_openml.csv')
 # Split the label from the data which we will use for classification
 y = data['class']
 X = data.drop(columns=['class', 'fnlwgt', 'capitalgain', 'capitalloss'])
@@ -28,5 +33,7 @@ preprocessor = ColumnTransformer([('trans_cat', pipe_cat, col_cat),
 pipe = make_pipeline(preprocessor, LogisticRegression(solver='lbfgs', max_iter=1000))
 param_grid = {'logisticregression__C': [0.1, 1.0, 10]}
 grid = GridSearchCV(pipe, param_grid=param_grid, cv=5, n_jobs=-1)
+
 scores = pd.DataFrame(cross_validate(grid, X, y, scoring='balanced_accuracy', cv=3, n_jobs=-1, return_train_score=True))
-scores[['train_score', 'test_score']].boxplot(whis=10)
+# scores[['train_score', 'test_score']].boxplot(whis=10)
+print(scores)
