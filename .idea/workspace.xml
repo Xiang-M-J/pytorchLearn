@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eca1ed14-9250-467b-868c-4c89f43eb3a1" name="Changes" comment="learning pandas...">
-      <change afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/07_Visualization/Chipotle/chipotle.tsv" afterDir="false" />
+    <list default="true" id="eca1ed14-9250-467b-868c-4c89f43eb3a1" name="Changes" comment="learning pandas until Visualize">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/04_Apply/Students_Alcohol_Consumption/Exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/04_Apply/Students_Alcohol_Consumption/Exercises.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/04_Apply/Students_Alcohol_Consumption/Exercises_with_solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/04_Apply/Students_Alcohol_Consumption/Exercises_with_solutions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/04_Apply/US_Crime_Rates/Exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/04_Apply/US_Crime_Rates/Exercises.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/04_Apply/US_Crime_Rates/Exercises_with_solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/04_Apply/US_Crime_Rates/Exercises_with_solutions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/05_Merge/Auto_MPG/Exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/05_Merge/Auto_MPG/Exercises.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/05_Merge/Auto_MPG/Exercises_with_solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/05_Merge/Auto_MPG/Exercises_with_solutions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/05_Merge/Fictitous Names/Exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/05_Merge/Fictitous Names/Exercises.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/05_Merge/Fictitous Names/Exercises_with_solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/05_Merge/Fictitous Names/Exercises_with_solutions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/06_Stats/US_Baby_Names/Exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/06_Stats/US_Baby_Names/Exercises.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/06_Stats/US_Baby_Names/Exercises_with_solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/06_Stats/US_Baby_Names/Exercises_with_solutions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/06_Stats/Wind_Stats/Exercises_with_solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/06_Stats/Wind_Stats/Exercises_with_solutions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/07_Visualization/Chipotle/Exercise_with_Solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/07_Visualization/Chipotle/Exercise_with_Solutions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/07_Visualization/Chipotle/Exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/07_Visualization/Chipotle/Exercises.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/07_Visualization/Online_Retail/Exercises_with_solutions_code.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/07_Visualization/Online_Retail/Exercises_with_solutions_code.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/4.scipy/1.scipy-intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/4.scipy/1.scipy-intro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/4.scipy/10.scipy-spatial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/4.scipy/10.scipy-spatial.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/4.scipy/2.scipy-optimize.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/4.scipy/2.scipy-optimize.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/4.scipy/3.scipy-linalg.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/4.scipy/3.scipy-linalg.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/5.data-visualization/1.matplotlib/matplotlib50/matplotlib50.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/5.data-visualization/1.matplotlib/matplotlib50/matplotlib50.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions/01_1_solutions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions/01_2_solutions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions/01_3_solutions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions/01_4_solutions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions/01_5_solutions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions/01_solutions.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions/01_solutions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions/02_solutions.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions/02_solutions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions/03_solutions.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions/03_solutions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions/04_solutions.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions/04_solutions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +49,127 @@
       <recent name="D:\PyProjectIN\pytorch\DataScienceNotes\3.pandas\2.Pandas_Exercises\pandas_exercises\02_Filtering_&amp;_Sorting\Chipotle" />
     </key>
   </component>
+  <component name="RunManager" selected="Python.04_solutions">
+    <configuration name="01_solutions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions/01_solutions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02_solutions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions/02_solutions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03_solutions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions/03_solutions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="04_solutions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions/04_solutions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="check_environment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/check_environment.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.04_solutions" />
+        <item itemvalue="Python.03_solutions" />
+        <item itemvalue="Python.02_solutions" />
+        <item itemvalue="Python.01_solutions" />
+        <item itemvalue="Python.check_environment" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -59,7 +182,7 @@
       <workItem from="1635682894988" duration="6799000" />
       <workItem from="1635692791733" duration="14066000" />
       <workItem from="1635752709180" duration="3286000" />
-      <workItem from="1635809947717" duration="12364000" />
+      <workItem from="1635809947717" duration="23067000" />
     </task>
     <task id="LOCAL-00001" summary="numpyexercise已学完">
       <created>1635689607588</created>
@@ -103,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635818609532</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="learning pandas until Visualize">
+      <created>1635825042129</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1635825042129</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,7 +256,8 @@
     <MESSAGE value="begin Pandas" />
     <MESSAGE value="Add some files" />
     <MESSAGE value="learning pandas..." />
-    <option name="LAST_COMMIT_MESSAGE" value="learning pandas..." />
+    <MESSAGE value="learning pandas until Visualize" />
+    <option name="LAST_COMMIT_MESSAGE" value="learning pandas until Visualize" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -138,5 +269,12 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pytorch$check_environment.coverage" NAME="check_environment Coverage Results" MODIFIED="1635831061870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn" />
+    <SUITE FILE_PATH="coverage/pytorch$03_solutions.coverage" NAME="03_solutions Coverage Results" MODIFIED="1635836384503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions" />
+    <SUITE FILE_PATH="coverage/pytorch$04_solutions.coverage" NAME="04_solutions Coverage Results" MODIFIED="1635836472883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions" />
+    <SUITE FILE_PATH="coverage/pytorch$02_solutions.coverage" NAME="02_solutions Coverage Results" MODIFIED="1635836202652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions" />
+    <SUITE FILE_PATH="coverage/pytorch$01_solutions.coverage" NAME="01_solutions Coverage Results" MODIFIED="1635834426985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions" />
   </component>
 </project>
