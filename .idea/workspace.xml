@@ -2,18 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eca1ed14-9250-467b-868c-4c89f43eb3a1" name="Changes" comment="learning pandas...">
-      <change afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/03_Grouping/Occupation/u.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/07_Visualization/Chipotle/chipotle.tsv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/02_Filtering_&amp;_Sorting/Euro12/Exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/02_Filtering_&amp;_Sorting/Euro12/Exercises.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/02_Filtering_&amp;_Sorting/Euro12/Exercises_with_Solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/02_Filtering_&amp;_Sorting/Euro12/Exercises_with_Solutions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/02_Filtering_&amp;_Sorting/Fictional Army/Exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/02_Filtering_&amp;_Sorting/Fictional Army/Exercise.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/02_Filtering_&amp;_Sorting/Fictional Army/Exercise_with_solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/02_Filtering_&amp;_Sorting/Fictional Army/Exercise_with_solutions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/03_Grouping/Alcohol_Consumption/Exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/03_Grouping/Alcohol_Consumption/Exercise.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/03_Grouping/Alcohol_Consumption/Exercise_with_solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/03_Grouping/Alcohol_Consumption/Exercise_with_solutions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/03_Grouping/Occupation/Exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/03_Grouping/Occupation/Exercise.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/03_Grouping/Occupation/Exercises_with_solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/03_Grouping/Occupation/Exercises_with_solutions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/03_Grouping/Regiment/Exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/03_Grouping/Regiment/Exercises.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/03_Grouping/Regiment/Exercises_solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/03_Grouping/Regiment/Exercises_solutions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/04_Apply/Students_Alcohol_Consumption/Exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/04_Apply/Students_Alcohol_Consumption/Exercises.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/04_Apply/Students_Alcohol_Consumption/Exercises_with_solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/04_Apply/Students_Alcohol_Consumption/Exercises_with_solutions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/04_Apply/US_Crime_Rates/Exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/04_Apply/US_Crime_Rates/Exercises.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/04_Apply/US_Crime_Rates/Exercises_with_solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/04_Apply/US_Crime_Rates/Exercises_with_solutions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/05_Merge/Auto_MPG/Exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/05_Merge/Auto_MPG/Exercises.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/05_Merge/Auto_MPG/Exercises_with_solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/05_Merge/Auto_MPG/Exercises_with_solutions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/05_Merge/Fictitous Names/Exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/05_Merge/Fictitous Names/Exercises.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/05_Merge/Fictitous Names/Exercises_with_solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/05_Merge/Fictitous Names/Exercises_with_solutions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/06_Stats/US_Baby_Names/Exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/06_Stats/US_Baby_Names/Exercises.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/06_Stats/US_Baby_Names/Exercises_with_solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/06_Stats/US_Baby_Names/Exercises_with_solutions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/06_Stats/Wind_Stats/Exercises_with_solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/06_Stats/Wind_Stats/Exercises_with_solutions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/07_Visualization/Chipotle/Exercise_with_Solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/07_Visualization/Chipotle/Exercise_with_Solutions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/07_Visualization/Chipotle/Exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/07_Visualization/Chipotle/Exercises.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,13 +35,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/03_Grouping/Occupation" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/07_Visualization/Chipotle" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PyProjectIN\pytorch\DataScienceNotes\3.pandas\2.Pandas_Exercises\pandas_exercises\07_Visualization\Chipotle" />
       <recent name="D:\PyProjectIN\pytorch\DataScienceNotes\3.pandas\2.Pandas_Exercises\pandas_exercises\03_Grouping\Occupation" />
       <recent name="D:\PyProjectIN\pytorch\DataScienceNotes\3.pandas\2.Pandas_Exercises\pandas_exercises\02_Filtering_&amp;_Sorting\Chipotle" />
     </key>
@@ -55,7 +59,7 @@
       <workItem from="1635682894988" duration="6799000" />
       <workItem from="1635692791733" duration="14066000" />
       <workItem from="1635752709180" duration="3286000" />
-      <workItem from="1635809947717" duration="8343000" />
+      <workItem from="1635809947717" duration="12364000" />
     </task>
     <task id="LOCAL-00001" summary="numpyexercise已学完">
       <created>1635689607588</created>
@@ -92,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635811461858</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="learning pandas...">
+      <created>1635818609532</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1635818609532</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,5 +127,16 @@
     <MESSAGE value="Add some files" />
     <MESSAGE value="learning pandas..." />
     <option name="LAST_COMMIT_MESSAGE" value="learning pandas..." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://D:/PyProjectIN/pytorch/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/07_Visualization/Chipotle/Exercises.ipynb</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
