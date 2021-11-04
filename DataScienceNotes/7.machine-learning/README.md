@@ -1,4 +1,8 @@
+## PDF文档位置说明 
+***D:\PyProjectIN\pytorchLearnResource***
+
 ## 一、斯坦福大学2014（吴恩达）机器学习教程中文笔记及资源
+### (已下载至 D:\PyProjectIN\pytorchLearnResource\Coursera-ML-AndrewNg-Notes)
 
 **github地址**：https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes
 
@@ -29,7 +33,7 @@
 
 
 ## 二、李航《统计学习方法》的代码实现及ppt
-
+### 已下载
 **github地址**：https://github.com/fengdu78/lihang-code
 
 **代码目录**
@@ -61,7 +65,7 @@
 
 
 ## 三、周志华老师的《机器学习》的解答--南瓜书PumpkinBook
-
+### 已下载至 D:\PyProjectIN\pytorchLearnResource\pumpkin_book.pdf
 作者：Datawhale
 
 **github地址**：

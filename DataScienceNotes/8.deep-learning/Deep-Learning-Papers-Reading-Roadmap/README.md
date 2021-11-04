@@ -1,4 +1,6 @@
 # 深度学习论文阅读路线图
+### PDF已下载至 D:\PyProjectIN\pytorchLearnResource\深度学习论文阅读路线
+
 ## 0.导语
 >作者：Floodsung
 >

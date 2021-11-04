@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eca1ed14-9250-467b-868c-4c89f43eb3a1" name="Changes" comment="scikit learning ...">
+    <list default="true" id="eca1ed14-9250-467b-868c-4c89f43eb3a1" name="Changes" comment="scikit learned">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions/02_solutions.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions/02_solutions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions/03_solutions.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions/03_solutions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions/04_solutions.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions/04_solutions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions/05_solutions.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions/05_solutions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/8.deep-learning/Deep-Learning-Papers-Reading-Roadmap/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/8.deep-learning/Deep-Learning-Papers-Reading-Roadmap/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +169,8 @@
       <workItem from="1635692791733" duration="14066000" />
       <workItem from="1635752709180" duration="3286000" />
       <workItem from="1635809947717" duration="23067000" />
-      <workItem from="1635860016860" duration="4317000" />
+      <workItem from="1635860016860" duration="7107000" />
+      <workItem from="1636030785854" duration="1971000" />
     </task>
     <task id="LOCAL-00001" summary="numpyexercise已学完">
       <created>1635689607588</created>
@@ -229,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635860372423</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="scikit learned">
+      <created>1635866909736</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1635866909736</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,7 +260,8 @@
     <MESSAGE value="learning pandas..." />
     <MESSAGE value="learning pandas until Visualize" />
     <MESSAGE value="scikit learning ..." />
-    <option name="LAST_COMMIT_MESSAGE" value="scikit learning ..." />
+    <MESSAGE value="scikit learned" />
+    <option name="LAST_COMMIT_MESSAGE" value="scikit learned" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
