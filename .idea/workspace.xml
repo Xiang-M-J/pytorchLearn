@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eca1ed14-9250-467b-868c-4c89f43eb3a1" name="Changes" comment="scikit learned">
+    <list default="true" id="eca1ed14-9250-467b-868c-4c89f43eb3a1" name="Changes" comment="add some files">
+      <change afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/Testcode.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/8.deep-learning/Deep-Learning-Papers-Reading-Roadmap/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/8.deep-learning/Deep-Learning-Papers-Reading-Roadmap/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchHandbook/chapter1/1_tensor_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchHandbook/chapter1/1_tensor_tutorial.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchHandbook/chapter1/2_autograd_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchHandbook/chapter1/2_autograd_tutorial.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -170,7 +179,11 @@
       <workItem from="1635752709180" duration="3286000" />
       <workItem from="1635809947717" duration="23067000" />
       <workItem from="1635860016860" duration="7107000" />
-      <workItem from="1636030785854" duration="1971000" />
+      <workItem from="1636030785854" duration="6946000" />
+      <workItem from="1636122397253" duration="2207000" />
+      <workItem from="1636161244735" duration="903000" />
+      <workItem from="1636162898194" duration="3173000" />
+      <workItem from="1636171853346" duration="4255000" />
     </task>
     <task id="LOCAL-00001" summary="numpyexercise已学完">
       <created>1635689607588</created>
@@ -235,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635866909736</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add some files">
+      <created>1636033095077</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1636033095077</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,7 +281,8 @@
     <MESSAGE value="learning pandas until Visualize" />
     <MESSAGE value="scikit learning ..." />
     <MESSAGE value="scikit learned" />
-    <option name="LAST_COMMIT_MESSAGE" value="scikit learned" />
+    <MESSAGE value="add some files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add some files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
