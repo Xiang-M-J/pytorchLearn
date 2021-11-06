@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eca1ed14-9250-467b-868c-4c89f43eb3a1" name="Changes" comment="add some files">
-      <change afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/Testcode.ipynb" afterDir="false" />
+    <list default="true" id="eca1ed14-9250-467b-868c-4c89f43eb3a1" name="Changes" comment="learning ...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytorchHandbook/chapter1/1_tensor_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchHandbook/chapter1/1_tensor_tutorial.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytorchHandbook/chapter1/2_autograd_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchHandbook/chapter1/2_autograd_tutorial.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/8.deep-learning/PyTorch_beginner/3.神经网络.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/8.deep-learning/PyTorch_beginner/3.神经网络.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/8.deep-learning/PyTorch_beginner/4.训练一个分类器.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/8.deep-learning/PyTorch_beginner/4.训练一个分类器.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,7 +182,10 @@
       <workItem from="1636122397253" duration="2207000" />
       <workItem from="1636161244735" duration="903000" />
       <workItem from="1636162898194" duration="3173000" />
-      <workItem from="1636171853346" duration="4255000" />
+      <workItem from="1636171853346" duration="4845000" />
+      <workItem from="1636206067636" duration="2697000" />
+      <workItem from="1636208798407" duration="185000" />
+      <workItem from="1636209000952" duration="347000" />
     </task>
     <task id="LOCAL-00001" summary="numpyexercise已学完">
       <created>1635689607588</created>
@@ -255,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636033095077</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="learning ...">
+      <created>1636205389823</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1636205389823</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,7 +291,8 @@
     <MESSAGE value="scikit learning ..." />
     <MESSAGE value="scikit learned" />
     <MESSAGE value="add some files" />
-    <option name="LAST_COMMIT_MESSAGE" value="add some files" />
+    <MESSAGE value="learning ..." />
+    <option name="LAST_COMMIT_MESSAGE" value="learning ..." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
