@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="eca1ed14-9250-467b-868c-4c89f43eb3a1" name="Changes" comment="learning ...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/8.deep-learning/PyTorch_beginner/3.神经网络.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/8.deep-learning/PyTorch_beginner/3.神经网络.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex1-linear regression/1.linear_regreesion_v1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex1-linear regression/1.linear_regreesion_v1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex1-linear regression/ML-Exercise1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex1-linear regression/ML-Exercise1.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataScienceNotes/8.deep-learning/PyTorch_beginner/4.训练一个分类器.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/8.deep-learning/PyTorch_beginner/4.训练一个分类器.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchHandbook/chapter1/4_cifar10_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchHandbook/chapter1/4_cifar10_tutorial.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +23,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="notebook://D:/PyProjectIN/pytorch/pytorchHandbook/chapter1/4_cifar10_tutorial.ipynb" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="20GUous2mYc2fPI2jLtQFAJDoUU" />
   <component name="ProjectViewState">
@@ -185,7 +190,9 @@
       <workItem from="1636171853346" duration="4845000" />
       <workItem from="1636206067636" duration="2697000" />
       <workItem from="1636208798407" duration="185000" />
-      <workItem from="1636209000952" duration="347000" />
+      <workItem from="1636209000952" duration="1842000" />
+      <workItem from="1636211172039" duration="4418000" />
+      <workItem from="1636248696097" duration="5406000" />
     </task>
     <task id="LOCAL-00001" summary="numpyexercise已学完">
       <created>1635689607588</created>
@@ -264,7 +271,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636205389823</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="learning ...">
+      <created>1636209455737</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1636209455738</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
