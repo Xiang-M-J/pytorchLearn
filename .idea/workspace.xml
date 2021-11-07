@@ -3,10 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="eca1ed14-9250-467b-868c-4c89f43eb3a1" name="Changes" comment="learning ...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex1-linear regression/1.linear_regreesion_v1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex1-linear regression/1.linear_regreesion_v1.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex1-linear regression/ML-Exercise1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex1-linear regression/ML-Exercise1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/8.deep-learning/PyTorch_beginner/4.训练一个分类器.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/8.deep-learning/PyTorch_beginner/4.训练一个分类器.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytorchHandbook/chapter1/4_cifar10_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchHandbook/chapter1/4_cifar10_tutorial.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex2-logistic regression/ML-Exercise2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex2-logistic regression/ML-Exercise2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第01章 统计学习方法概论/1.Introduction_to_statistical_learning_methods.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第01章 统计学习方法概论/1.Introduction_to_statistical_learning_methods.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第02章 感知机/2.Perceptron.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第02章 感知机/2.Perceptron.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,7 +192,7 @@
       <workItem from="1636208798407" duration="185000" />
       <workItem from="1636209000952" duration="1842000" />
       <workItem from="1636211172039" duration="4418000" />
-      <workItem from="1636248696097" duration="5406000" />
+      <workItem from="1636248696097" duration="10363000" />
     </task>
     <task id="LOCAL-00001" summary="numpyexercise已学完">
       <created>1635689607588</created>
@@ -278,7 +278,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636209455738</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="learning ...">
+      <created>1636264058871</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1636264058872</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
