@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="eca1ed14-9250-467b-868c-4c89f43eb3a1" name="Changes" comment="learning ...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex1-linear regression/ML-Exercise1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex1-linear regression/ML-Exercise1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex2-logistic regression/ML-Exercise2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex2-logistic regression/ML-Exercise2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第01章 统计学习方法概论/1.Introduction_to_statistical_learning_methods.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第01章 统计学习方法概论/1.Introduction_to_statistical_learning_methods.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第02章 感知机/2.Perceptron.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第02章 感知机/2.Perceptron.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchHandbook/chapter1/5_data_parallel_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchHandbook/chapter1/5_data_parallel_tutorial.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchHandbook/chapter2/2.1.1.pytorch-basics-tensor.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchHandbook/chapter2/2.1.1.pytorch-basics-tensor.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +24,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="notebook://D:/PyProjectIN/pytorch/pytorchHandbook/chapter1/4_cifar10_tutorial.ipynb" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
+    <setting file="notebook://D:/PyProjectIN/pytorch/pytorchHandbook/chapter1/5_data_parallel_tutorial.ipynb" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="20GUous2mYc2fPI2jLtQFAJDoUU" />
   <component name="ProjectViewState">
@@ -39,7 +38,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/07_Visualization/Chipotle" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -192,7 +191,9 @@
       <workItem from="1636208798407" duration="185000" />
       <workItem from="1636209000952" duration="1842000" />
       <workItem from="1636211172039" duration="4418000" />
-      <workItem from="1636248696097" duration="10363000" />
+      <workItem from="1636248696097" duration="10865000" />
+      <workItem from="1636386583873" duration="1025000" />
+      <workItem from="1636416574111" duration="4172000" />
     </task>
     <task id="LOCAL-00001" summary="numpyexercise已学完">
       <created>1635689607588</created>
@@ -285,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636264058872</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="learning ...">
+      <created>1636271329893</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1636271329893</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
