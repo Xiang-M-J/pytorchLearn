@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="eca1ed14-9250-467b-868c-4c89f43eb3a1" name="Changes" comment="learning ...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第03章 k近邻法/3.KNearestNeighbors.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第03章 k近邻法/3.KNearestNeighbors.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex3-neural network/1- neural network.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex3-neural network/1- neural network.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex4-NN back propagation/1- NN back propagation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex4-NN back propagation/1- NN back propagation.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/07_Visualization/Chipotle" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/img/nn_model.png" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
@@ -194,7 +195,8 @@
       <workItem from="1636386583873" duration="1025000" />
       <workItem from="1636416574111" duration="12684000" />
       <workItem from="1636453568555" duration="13779000" />
-      <workItem from="1636544281736" duration="1224000" />
+      <workItem from="1636544281736" duration="3132000" />
+      <workItem from="1636617173984" duration="8604000" />
     </task>
     <task id="LOCAL-00001" summary="numpyexercise已学完">
       <created>1635689607588</created>
@@ -315,7 +317,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636460108875</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="learning ...">
+      <created>1636553616204</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1636553616204</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -352,6 +361,11 @@
           <url>notebook://D:/PyProjectIN/pytorch/DataScienceNotes/3.pandas/2.Pandas_Exercises/pandas_exercises/07_Visualization/Chipotle/Exercises.ipynb</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://D:/PyProjectIN/pytorch/DataScienceNotes/7.machine-learning/code/ex1-linear regression/1.linear_regreesion_v1.ipynb</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
