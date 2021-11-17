@@ -126,6 +126,8 @@ class SVM:
             else:
                 # 选择中点
                 b_new = (b1 + b2) / 2
+
+            # 更新
             self.alpha[i1] = alpha1_new
             self.alpha[i2] = alpha2_new
             self.b = b_new
