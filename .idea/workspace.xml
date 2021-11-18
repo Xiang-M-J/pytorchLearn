@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eca1ed14-9250-467b-868c-4c89f43eb3a1" name="Changes" comment="learning ...">
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第07章 支持向量机/Mysvm.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第07章 支持向量机/Mysvm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第08章 提升方法/[Failed]AdaBoost.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/datalore.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/datalore.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第08章 提升方法/8.Boost.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第08章 提升方法/8.Boost.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,9 +23,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="notebook://D:/PyProjectIN/pytorch/pytorchHandbook/chapter1/5_data_parallel_tutorial.ipynb" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
     <setting file="notebook://D:/PyProjectIN/pytorch/pytorchHandbook/chapter1/4_cifar10_tutorial.ipynb" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
+    <setting file="notebook://D:/PyProjectIN/pytorch/pytorchHandbook/chapter1/5_data_parallel_tutorial.ipynb" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="20GUous2mYc2fPI2jLtQFAJDoUU" />
   <component name="ProjectViewState">
@@ -45,51 +56,7 @@
       <recent name="D:\PyProjectIN\pytorch\DataScienceNotes\3.pandas\2.Pandas_Exercises\pandas_exercises\02_Filtering_&amp;_Sorting\Chipotle" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Mysvm">
-    <configuration name="04_solutions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pytorch" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions/04_solutions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="05_solutions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pytorch" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions/05_solutions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.purepython">
     <configuration name="3.KNearestNeighbors" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pytorch" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Mysvm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="SVM_SMO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pytorch" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,7 +114,51 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\PyProjectIN\pytorch\DataScienceNotes\7.machine-learning\lihangcode\第07章 支持向量机\Mysvm.py" />
+      <option name="SCRIPT_NAME" value="D:\PyProjectIN\pytorch\DataScienceNotes\7.machine-learning\lihangcode\第07章 支持向量机\SVM_SMO.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="[Failed]AdaBoost" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第08章 提升方法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\PyProjectIN\pytorch\DataScienceNotes\7.machine-learning\lihangcode\第08章 提升方法\[Failed]AdaBoost.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="purepython" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第08章 提升方法/othercode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第08章 提升方法/othercode/purepython.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Mysvm" />
+        <item itemvalue="Python.purepython" />
+        <item itemvalue="Python.[Failed]AdaBoost" />
+        <item itemvalue="Python.SVM_SMO" />
         <item itemvalue="Python.5.DecisonTree" />
         <item itemvalue="Python.3.KNearestNeighbors" />
-        <item itemvalue="Python.05_solutions" />
-        <item itemvalue="Python.04_solutions" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +214,8 @@
       <workItem from="1636957402789" duration="75000" />
       <workItem from="1637029953942" duration="1268000" />
       <workItem from="1637073822330" duration="674000" />
-      <workItem from="1637074949812" duration="14894000" />
+      <workItem from="1637074949812" duration="16058000" />
+      <workItem from="1637223172883" duration="9655000" />
     </task>
     <task id="LOCAL-00001" summary="numpyexercise已学完">
       <created>1635689607588</created>
@@ -380,7 +392,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637155120731</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="learning ...">
+      <created>1637155622277</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1637155622277</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -431,9 +450,11 @@
     <SUITE FILE_PATH="coverage/pytorch$03_solutions.coverage" NAME="03_solutions Coverage Results" MODIFIED="1635865249002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions" />
     <SUITE FILE_PATH="coverage/pytorch$04_solutions.coverage" NAME="04_solutions Coverage Results" MODIFIED="1635865900179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions" />
     <SUITE FILE_PATH="coverage/pytorch$3_KNearestNeighbors.coverage" NAME="3.KNearestNeighbors Coverage Results" MODIFIED="1636859423552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第03章 k近邻法" />
+    <SUITE FILE_PATH="coverage/pytorch$AdaBoost.coverage" NAME="AdaBoost Coverage Results" MODIFIED="1637240035597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第08章 提升方法" />
     <SUITE FILE_PATH="coverage/pytorch$02_solutions.coverage" NAME="02_solutions Coverage Results" MODIFIED="1635864569751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions" />
     <SUITE FILE_PATH="coverage/pytorch$01_solutions.coverage" NAME="01_solutions Coverage Results" MODIFIED="1635864559039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions" />
     <SUITE FILE_PATH="coverage/pytorch$myCode.coverage" NAME="myCode Coverage Results" MODIFIED="1637154373391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第07章 支持向量机" />
+    <SUITE FILE_PATH="coverage/pytorch$purepython.coverage" NAME="purepython Coverage Results" MODIFIED="1637242438033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第08章 提升方法/othercode" />
     <SUITE FILE_PATH="coverage/pytorch$05_solutions.coverage" NAME="05_solutions Coverage Results" MODIFIED="1635866309398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions" />
     <SUITE FILE_PATH="coverage/pytorch$5_DecisonTree.coverage" NAME="5.DecisonTree Coverage Results" MODIFIED="1637148897311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第05章 决策树" />
   </component>
