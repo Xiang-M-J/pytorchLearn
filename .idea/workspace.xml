@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eca1ed14-9250-467b-868c-4c89f43eb3a1" name="Changes" comment="learning ...">
-      <change afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第08章 提升方法/[Failed]AdaBoost.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/datalore.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/datalore.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第08章 提升方法/8.Boost.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第08章 提升方法/8.Boost.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第09章 EM算法及其推广/9.Expectation_Maximization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第09章 EM算法及其推广/9.Expectation_Maximization.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -215,7 +213,7 @@
       <workItem from="1637029953942" duration="1268000" />
       <workItem from="1637073822330" duration="674000" />
       <workItem from="1637074949812" duration="16058000" />
-      <workItem from="1637223172883" duration="9655000" />
+      <workItem from="1637223172883" duration="14641000" />
     </task>
     <task id="LOCAL-00001" summary="numpyexercise已学完">
       <created>1635689607588</created>
@@ -399,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637155622277</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="learning ...">
+      <created>1637243936704</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1637243936704</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
