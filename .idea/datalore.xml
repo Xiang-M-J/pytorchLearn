@@ -109,6 +109,21 @@
             </map>
           </value>
         </entry>
+        <entry key="159177">
+          <value>
+            <map>
+              <entry key="QpwHLpRGwJCnj0gr3ZldZ2">
+                <value>
+                  <PublishedNotebookState>
+                    <option name="id" value="JXst3gtJy8yDxvpK8HCohp" />
+                    <option name="link" value="https://datalore.jetbrains.com/view/notebook/JXst3gtJy8yDxvpK8HCohp" />
+                    <option name="owner" value="QpwHLpRGwJCnj0gr3ZldZ2" />
+                  </PublishedNotebookState>
+                </value>
+              </entry>
+            </map>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
