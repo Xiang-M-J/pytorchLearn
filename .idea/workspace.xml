@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eca1ed14-9250-467b-868c-4c89f43eb3a1" name="Changes" comment="learning ...">
-      <change beforePath="$PROJECT_DIR$/.idea/datalore.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/datalore.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第10章 隐马尔可夫模型/10.HMM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第10章 隐马尔可夫模型/10.HMM.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第11章 条件随机场/11.CRF.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第11章 条件随机场/11.CRF.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +30,8 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="notebook://D:/PyProjectIN/pytorch/pytorchHandbook/chapter1/4_cifar10_tutorial.ipynb" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
     <setting file="notebook://D:/PyProjectIN/pytorch/pytorchHandbook/chapter1/5_data_parallel_tutorial.ipynb" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
+    <setting file="notebook://D:/PyProjectIN/pytorch/pytorchHandbook/chapter1/4_cifar10_tutorial.ipynb" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="20GUous2mYc2fPI2jLtQFAJDoUU" />
   <component name="ProjectViewState">
@@ -214,7 +213,8 @@
       <workItem from="1637029953942" duration="1268000" />
       <workItem from="1637073822330" duration="674000" />
       <workItem from="1637074949812" duration="16058000" />
-      <workItem from="1637223172883" duration="16605000" />
+      <workItem from="1637223172883" duration="16698000" />
+      <workItem from="1637380133593" duration="1293000" />
     </task>
     <task id="LOCAL-00001" summary="numpyexercise已学完">
       <created>1635689607588</created>
@@ -412,7 +412,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637293484472</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="learning ...">
+      <created>1637296734652</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1637296734652</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
