@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eca1ed14-9250-467b-868c-4c89f43eb3a1" name="Changes" comment="learning ...">
+      <change afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第15章 奇异值分解/bag.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/datalore.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/datalore.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第11章 条件随机场/11.CRF.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第11章 条件随机场/11.CRF.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第15章 奇异值分解/15.SVD.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第15章 奇异值分解/15.SVD.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第16章 主成分分析/16.PCA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第16章 主成分分析/16.PCA.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第17章 潜在语义分析/17.LSA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第17章 潜在语义分析/17.LSA.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +34,8 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="notebook://D:/PyProjectIN/pytorch/pytorchHandbook/chapter1/5_data_parallel_tutorial.ipynb" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
     <setting file="notebook://D:/PyProjectIN/pytorch/pytorchHandbook/chapter1/4_cifar10_tutorial.ipynb" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
+    <setting file="notebook://D:/PyProjectIN/pytorch/pytorchHandbook/chapter1/5_data_parallel_tutorial.ipynb" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="20GUous2mYc2fPI2jLtQFAJDoUU" />
   <component name="ProjectViewState">
@@ -52,6 +56,9 @@
       <recent name="D:\PyProjectIN\pytorch\DataScienceNotes\3.pandas\2.Pandas_Exercises\pandas_exercises\07_Visualization\Chipotle" />
       <recent name="D:\PyProjectIN\pytorch\DataScienceNotes\3.pandas\2.Pandas_Exercises\pandas_exercises\03_Grouping\Occupation" />
       <recent name="D:\PyProjectIN\pytorch\DataScienceNotes\3.pandas\2.Pandas_Exercises\pandas_exercises\02_Filtering_&amp;_Sorting\Chipotle" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PyProjectIN\pytorch\DataScienceNotes\7.machine-learning\lihangcode\第15章 奇异值分解" />
     </key>
   </component>
   <component name="RunManager" selected="Python.purepython">
@@ -214,7 +221,9 @@
       <workItem from="1637073822330" duration="674000" />
       <workItem from="1637074949812" duration="16058000" />
       <workItem from="1637223172883" duration="16698000" />
-      <workItem from="1637380133593" duration="1293000" />
+      <workItem from="1637380133593" duration="2402000" />
+      <workItem from="1637467859286" duration="5112000" />
+      <workItem from="1637491225584" duration="6904000" />
     </task>
     <task id="LOCAL-00001" summary="numpyexercise已学完">
       <created>1635689607588</created>
@@ -419,7 +428,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637296734652</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="learning ...">
+      <created>1637384690484</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1637384690484</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
