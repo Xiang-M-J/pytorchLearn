@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eca1ed14-9250-467b-868c-4c89f43eb3a1" name="Changes" comment="learning ...">
-      <change afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第15章 奇异值分解/bag.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/datalore.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/datalore.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第15章 奇异值分解/15.SVD.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第15章 奇异值分解/15.SVD.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第16章 主成分分析/16.PCA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第16章 主成分分析/16.PCA.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第17章 潜在语义分析/17.LSA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第17章 潜在语义分析/17.LSA.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex3-neural network/ML-Exercise3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex3-neural network/ML-Exercise3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex4-NN back propagation/ML-Exercise4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex4-NN back propagation/ML-Exercise4.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第18章 概率潜在语义分析/18.PLSA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第18章 概率潜在语义分析/18.PLSA.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,7 +222,7 @@
       <workItem from="1637223172883" duration="16698000" />
       <workItem from="1637380133593" duration="2402000" />
       <workItem from="1637467859286" duration="5112000" />
-      <workItem from="1637491225584" duration="6904000" />
+      <workItem from="1637491225584" duration="14823000" />
     </task>
     <task id="LOCAL-00001" summary="numpyexercise已学完">
       <created>1635689607588</created>
@@ -435,7 +434,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637384690484</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="learning ...">
+      <created>1637499072834</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1637499072834</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
