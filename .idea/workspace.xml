@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="eca1ed14-9250-467b-868c-4c89f43eb3a1" name="Changes" comment="learning ...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex5-bias vs variance/ML-Exercise5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex5-bias vs variance/ML-Exercise5.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex6-SVM/1- linear SVM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex6-SVM/1- linear SVM.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex6-SVM/2- Gaussian kernels.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex6-SVM/2- Gaussian kernels.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex6-SVM/3- search for the best parameters.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex6-SVM/3- search for the best parameters.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex6-SVM/4- spam filter.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex6-SVM/4- spam filter.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex6-SVM/ML-Exercise6.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex6-SVM/ML-Exercise6.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,7 +224,7 @@
       <workItem from="1637380133593" duration="2402000" />
       <workItem from="1637467859286" duration="5112000" />
       <workItem from="1637491225584" duration="14823000" />
-      <workItem from="1637598213077" duration="3200000" />
+      <workItem from="1637598213077" duration="11838000" />
     </task>
     <task id="LOCAL-00001" summary="numpyexercise已学完">
       <created>1635689607588</created>
@@ -446,7 +450,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637598239467</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="learning ...">
+      <created>1637635358914</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1637635358914</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
