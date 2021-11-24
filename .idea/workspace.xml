@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="eca1ed14-9250-467b-868c-4c89f43eb3a1" name="Changes" comment="learning ...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex7-kmeans and PCA/2- 2D kmeans.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex7-kmeans and PCA/2- 2D kmeans.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex7-kmeans and PCA/3- kmeans for image compression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex7-kmeans and PCA/3- kmeans for image compression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex7-kmeans and PCA/4- 2D PCA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex7-kmeans and PCA/4- 2D PCA.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex7-kmeans and PCA/5- PCA on face data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex7-kmeans and PCA/5- PCA on face data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex7-kmeans and PCA/ML-Exercise7.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex7-kmeans and PCA/ML-Exercise7.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +33,8 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="notebook://D:/PyProjectIN/pytorch/pytorchHandbook/chapter1/4_cifar10_tutorial.ipynb" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
     <setting file="notebook://D:/PyProjectIN/pytorch/pytorchHandbook/chapter1/5_data_parallel_tutorial.ipynb" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
+    <setting file="notebook://D:/PyProjectIN/pytorch/pytorchHandbook/chapter1/4_cifar10_tutorial.ipynb" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="20GUous2mYc2fPI2jLtQFAJDoUU" />
   <component name="ProjectViewState">
@@ -221,7 +224,8 @@
       <workItem from="1637467859286" duration="5112000" />
       <workItem from="1637491225584" duration="14823000" />
       <workItem from="1637598213077" duration="15261000" />
-      <workItem from="1637685284306" duration="2619000" />
+      <workItem from="1637685284306" duration="7390000" />
+      <workItem from="1637729382618" duration="11969000" />
     </task>
     <task id="LOCAL-00001" summary="numpyexercise已学完">
       <created>1635689607588</created>
@@ -461,7 +465,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637648599559</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="learning ...">
+      <created>1637712666929</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1637712666929</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
