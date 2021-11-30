@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="eca1ed14-9250-467b-868c-4c89f43eb3a1" name="Changes" comment="learning ...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytorchHandbook/chapter4/4.1-fine-tuning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchHandbook/chapter4/4.1-fine-tuning.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytorchHandbook/chapter4/static.zip" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchHandbook/chapter4/static.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchHandbook/chapter4/4.2.1-visdom.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchHandbook/chapter4/4.2.1-visdom.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchHandbook/chapter4/4.2.2-tensorboardx.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchHandbook/chapter4/4.2.2-tensorboardx.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchHandbook/chapter4/4.2.3-cnn-visualizing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchHandbook/chapter4/4.2.3-cnn-visualizing.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchHandbook/chapter4/4.3-fastai.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchHandbook/chapter4/4.3-fastai.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +48,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/DataScienceNotes/9.feature-engineering/data" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="advanced.settings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -237,7 +239,9 @@
       <workItem from="1638080985204" duration="3018000" />
       <workItem from="1638111625883" duration="2561000" />
       <workItem from="1638232373486" duration="11739000" />
-      <workItem from="1638268445467" duration="3430000" />
+      <workItem from="1638268445467" duration="4044000" />
+      <workItem from="1638273441355" duration="143000" />
+      <workItem from="1638274150449" duration="1763000" />
     </task>
     <task id="LOCAL-00001" summary="numpyexercise已学完">
       <created>1635689607588</created>
@@ -533,7 +537,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638255881893</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="learning ...">
+      <created>1638272524979</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1638272524985</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
