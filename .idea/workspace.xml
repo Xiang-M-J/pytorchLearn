@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="eca1ed14-9250-467b-868c-4c89f43eb3a1" name="Changes" comment="learning ...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytorchHandbook/chapter4/4.2.1-visdom.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchHandbook/chapter4/4.2.1-visdom.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytorchHandbook/chapter4/4.2.2-tensorboardx.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchHandbook/chapter4/4.2.2-tensorboardx.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytorchHandbook/chapter4/4.2.3-cnn-visualizing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchHandbook/chapter4/4.2.3-cnn-visualizing.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytorchHandbook/chapter4/4.3-fastai.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchHandbook/chapter4/4.3-fastai.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchHandbook/chapter4/4.5-multiply-gpu-parallel-training.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchHandbook/chapter4/4.5-multiply-gpu-parallel-training.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchHandbook/chapter5/5.2-Structured-Data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchHandbook/chapter5/5.2-Structured-Data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchHandbook/chapter5/5.3-Fashion-MNIST.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchHandbook/chapter5/5.3-Fashion-MNIST.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -241,7 +240,7 @@
       <workItem from="1638232373486" duration="11739000" />
       <workItem from="1638268445467" duration="4044000" />
       <workItem from="1638273441355" duration="143000" />
-      <workItem from="1638274150449" duration="1763000" />
+      <workItem from="1638274150449" duration="6407000" />
     </task>
     <task id="LOCAL-00001" summary="numpyexercise已学完">
       <created>1635689607588</created>
@@ -544,7 +543,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638272524985</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="learning ...">
+      <created>1638276976630</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1638276976630</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
