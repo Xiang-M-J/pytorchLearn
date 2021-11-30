@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="eca1ed14-9250-467b-868c-4c89f43eb3a1" name="Changes" comment="learning ...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytorchHandbook/chapter3/3.1-logistic-regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchHandbook/chapter3/3.1-logistic-regression.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytorchHandbook/chapter3/3.2-mnist.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchHandbook/chapter3/3.2-mnist.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytorchHandbook/chapter3/3.3-rnn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchHandbook/chapter3/3.3-rnn.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchHandbook/chapter4/4.1-fine-tuning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchHandbook/chapter4/4.1-fine-tuning.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchHandbook/chapter4/static.zip" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchHandbook/chapter4/static.zip" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -237,7 +236,8 @@
       <workItem from="1638080587106" duration="356000" />
       <workItem from="1638080985204" duration="3018000" />
       <workItem from="1638111625883" duration="2561000" />
-      <workItem from="1638232373486" duration="9064000" />
+      <workItem from="1638232373486" duration="11739000" />
+      <workItem from="1638268445467" duration="3430000" />
     </task>
     <task id="LOCAL-00001" summary="numpyexercise已学完">
       <created>1635689607588</created>
@@ -526,7 +526,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638082606124</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="learning ...">
+      <created>1638255881893</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1638255881893</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
