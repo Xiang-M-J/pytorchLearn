@@ -3,9 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="eca1ed14-9250-467b-868c-4c89f43eb3a1" name="Changes" comment="learning ...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytorchHandbook/chapter4/4.5-multiply-gpu-parallel-training.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchHandbook/chapter4/4.5-multiply-gpu-parallel-training.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytorchHandbook/chapter5/5.2-Structured-Data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchHandbook/chapter5/5.2-Structured-Data.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytorchHandbook/chapter5/5.3-Fashion-MNIST.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchHandbook/chapter5/5.3-Fashion-MNIST.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchTutorial/tutorials/01-basics/feedforward_neural_network/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchTutorial/tutorials/01-basics/feedforward_neural_network/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchTutorial/tutorials/01-basics/feedforward_neural_network/model.ckpt" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchTutorial/tutorials/01-basics/feedforward_neural_network/model.ckpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchTutorial/tutorials/01-basics/linear_regression/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchTutorial/tutorials/01-basics/linear_regression/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchTutorial/tutorials/02-intermediate/bidirectional_recurrent_neural_network/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchTutorial/tutorials/02-intermediate/bidirectional_recurrent_neural_network/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchTutorial/tutorials/02-intermediate/deep_residual_network/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchTutorial/tutorials/02-intermediate/deep_residual_network/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +34,8 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="notebook://D:/PyProjectIN/pytorch/pytorchHandbook/chapter1/4_cifar10_tutorial.ipynb" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
     <setting file="notebook://D:/PyProjectIN/pytorch/pytorchHandbook/chapter1/5_data_parallel_tutorial.ipynb" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
+    <setting file="notebook://D:/PyProjectIN/pytorch/pytorchHandbook/chapter1/4_cifar10_tutorial.ipynb" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="20GUous2mYc2fPI2jLtQFAJDoUU" />
   <component name="ProjectViewState">
@@ -47,7 +49,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/DataScienceNotes/9.feature-engineering/data" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -60,8 +62,8 @@
       <recent name="D:\PyProjectIN\pytorch\DataScienceNotes\7.machine-learning\lihangcode\第15章 奇异值分解" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2- Recommender system">
-    <configuration name="2- 2D kmeans" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main (5)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pytorch" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,12 +71,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex7-kmeans and PCA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytorchTutorial/tutorials/01-basics/linear_regression" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex7-kmeans and PCA/2- 2D kmeans.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytorchTutorial/tutorials/01-basics/linear_regression/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2- Recommender system" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pytorch" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,12 +93,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex8-anomaly detection and recommendation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytorchTutorial/tutorials/01-basics/logistic_regression" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex8-anomaly detection and recommendation/2- Recommender system.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytorchTutorial/tutorials/01-basics/logistic_regression/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="[Failed]AdaBoost" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pytorch" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,12 +115,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第08章 提升方法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytorchTutorial/tutorials/01-basics/pytorch_basics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\PyProjectIN\pytorch\DataScienceNotes\7.machine-learning\lihangcode\第08章 提升方法\[Failed]AdaBoost.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytorchTutorial/tutorials/01-basics/pytorch_basics/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ml_exercise5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pytorch" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,12 +137,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex5-bias vs variance" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytorchTutorial/tutorials/02-intermediate/bidirectional_recurrent_neural_network" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex5-bias vs variance/ml_exercise5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytorchTutorial/tutorials/02-intermediate/bidirectional_recurrent_neural_network/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="purepython" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pytorch" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,12 +159,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第08章 提升方法/othercode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytorchTutorial/tutorials/02-intermediate/deep_residual_network" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第08章 提升方法/othercode/purepython.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytorchTutorial/tutorials/02-intermediate/deep_residual_network/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.purepython" />
-        <item itemvalue="Python.ml_exercise5" />
-        <item itemvalue="Python.[Failed]AdaBoost" />
-        <item itemvalue="Python.2- Recommender system" />
-        <item itemvalue="Python.2- 2D kmeans" />
+        <item itemvalue="Python.main (5)" />
+        <item itemvalue="Python.main (4)" />
+        <item itemvalue="Python.main (3)" />
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -240,7 +242,11 @@
       <workItem from="1638232373486" duration="11739000" />
       <workItem from="1638268445467" duration="4044000" />
       <workItem from="1638273441355" duration="143000" />
-      <workItem from="1638274150449" duration="6407000" />
+      <workItem from="1638274150449" duration="7038000" />
+      <workItem from="1638335677845" duration="5104000" />
+      <workItem from="1638364121095" duration="159000" />
+      <workItem from="1638364309486" duration="3297000" />
+      <workItem from="1638406314234" duration="4939000" />
     </task>
     <task id="LOCAL-00001" summary="numpyexercise已学完">
       <created>1635689607588</created>
@@ -550,7 +556,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638276976630</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="learning ...">
+      <created>1638290975800</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1638290975800</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -610,9 +623,14 @@
     <SUITE FILE_PATH="coverage/pytorch$check_environment.coverage" NAME="check_environment Coverage Results" MODIFIED="1635831061870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn" />
     <SUITE FILE_PATH="coverage/pytorch$3_KNearestNeighbors.coverage" NAME="3.KNearestNeighbors Coverage Results" MODIFIED="1636859423552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第03章 k近邻法" />
     <SUITE FILE_PATH="coverage/pytorch$AdaBoost.coverage" NAME="AdaBoost Coverage Results" MODIFIED="1637240035597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第08章 提升方法" />
-    <SUITE FILE_PATH="coverage/pytorch$2__Recommender_system.coverage" NAME="2- Recommender system Coverage Results" MODIFIED="1637840531867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex8-anomaly detection and recommendation" />
+    <SUITE FILE_PATH="coverage/pytorch$2__Recommender_system.coverage" NAME="2- Recommender system Coverage Results" MODIFIED="1638360602369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex8-anomaly detection and recommendation" />
+    <SUITE FILE_PATH="coverage/pytorch$main__4_.coverage" NAME="main (4) Coverage Results" MODIFIED="1638407679582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytorchTutorial/tutorials/02-intermediate/bidirectional_recurrent_neural_network" />
     <SUITE FILE_PATH="coverage/pytorch$purepython.coverage" NAME="purepython Coverage Results" MODIFIED="1637242438033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第08章 提升方法/othercode" />
+    <SUITE FILE_PATH="coverage/pytorch$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1638368068101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytorchTutorial/tutorials/01-basics/pytorch_basics" />
+    <SUITE FILE_PATH="coverage/pytorch$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1638365161111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytorchTutorial/tutorials/01-basics/logistic_regression" />
+    <SUITE FILE_PATH="coverage/pytorch$main.coverage" NAME="main Coverage Results" MODIFIED="1638364319339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytorchTutorial/tutorials/01-basics/feedforward_neural_network" />
     <SUITE FILE_PATH="coverage/pytorch$5_DecisonTree.coverage" NAME="5.DecisonTree Coverage Results" MODIFIED="1637148897311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第05章 决策树" />
+    <SUITE FILE_PATH="coverage/pytorch$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1638364356910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytorchTutorial/tutorials/01-basics/linear_regression" />
     <SUITE FILE_PATH="coverage/pytorch$03_solutions.coverage" NAME="03_solutions Coverage Results" MODIFIED="1635865249002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions" />
     <SUITE FILE_PATH="coverage/pytorch$ml_exercise5.coverage" NAME="ml_exercise5 Coverage Results" MODIFIED="1637634162763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/code/ex5-bias vs variance" />
     <SUITE FILE_PATH="coverage/pytorch$04_solutions.coverage" NAME="04_solutions Coverage Results" MODIFIED="1635865900179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions" />
@@ -621,5 +639,6 @@
     <SUITE FILE_PATH="coverage/pytorch$01_solutions.coverage" NAME="01_solutions Coverage Results" MODIFIED="1635864559039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions" />
     <SUITE FILE_PATH="coverage/pytorch$myCode.coverage" NAME="myCode Coverage Results" MODIFIED="1637154373391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataScienceNotes/7.machine-learning/lihangcode/第07章 支持向量机" />
     <SUITE FILE_PATH="coverage/pytorch$05_solutions.coverage" NAME="05_solutions Coverage Results" MODIFIED="1635866309398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataScienceNotes/6.scikit-learn/solutions" />
+    <SUITE FILE_PATH="coverage/pytorch$main__5_.coverage" NAME="main (5) Coverage Results" MODIFIED="1638417959548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytorchTutorial/tutorials/02-intermediate/deep_residual_network" />
   </component>
 </project>
